@@ -77,4 +77,20 @@ estilos materialize
     transform: rotate(45deg);
     margin: 0 15p;
     background: #000;
+    height: 20px;
+}
+.card .card-image img{
+    width: 50%;
+}
+.card{
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.card .card-image .card-title{
+    color: rgb(66, 56, 56);
+ }
 }
