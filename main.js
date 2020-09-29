@@ -6,7 +6,8 @@ document.addEventListener('DOMContentLoaded', () =>
 		dist:-80,
 		shift:5,
 		padding:5,
-		numVisible:3,
-		indicators:true
+		numVisible:4,
+		indicators:true,
+		noWrap:true
 	});
 });
